@@ -28,11 +28,6 @@ Optionally: Farmers, ag retailers, agronomists etc
 
 **Deep Dive Slides**: https://github.com/START-Hack/Syngenta_STARTHACK24/blob/main/Syngenta-Hack.pdf
 
-
-## <p align="center"> Expected Outcome: </p>
-
-
-
 ## <p align="center"> Further Information: </p>
 
 Syngenta will provide access to environmental data, products, and agronomics algorithms.
@@ -64,11 +59,11 @@ Judgment criteria are important for the participants to understand the focus of 
 
 ## <p align="center"> Presentation Prototpye: </p>
 
-**Format: ** 
+**Format:**
 
 - A working prototype (e.g. an app, website, etc.) and a concise PowerPoint presentation  
 
-**Key elements: **
+**Key elements:**
 
 - Clear problem articulation: Clearly defined the identified problem. 
 
@@ -78,11 +73,11 @@ Judgment criteria are important for the participants to understand the focus of 
 
 - Decision-making process: Explain how the solution effectively tackles the identified problem. 
 
-- Visual Components: Include visual elements that enhance understanding (graphics, charts. …)  
+- Visual Components: Include visual elements that enhance understanding (graphics, charts,…)  
 
-**Requirements: **
+**Requirements:**
 
-- Clarity in the communicating the problem solution fit – how does this solution solve the problem  
+- Clarity in communicating the problem solution fit – how does this solution solve the problem  
 
 - Usability of the solution based on the user base  
 
