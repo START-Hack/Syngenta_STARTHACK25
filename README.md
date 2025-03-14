@@ -57,7 +57,7 @@ Judgment criteria are important for the participants to understand the focus of 
 
 - Presentation quality (25%)
 
-## <p align="center"> Presentation Prototpye: </p>
+## <p align="center"> Presentation Prototype: </p>
 
 **Format:**
 
