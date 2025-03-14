@@ -1,4 +1,4 @@
-# <p align="center"> TITLE. </p>
+# <p align="center"> Nature helps nature: Use AI to improve global farming through nature-powered innovation . </p>
 
 
 
@@ -23,34 +23,25 @@ The solution can take various forms: an app, website
 
 Primary users will be farmers in India and Brazil. The teams are free to choose one of the locations of the farmer.  
 
-Optionally: Farmers, ag retailers, agronomists etc. in ‘expert mode’
+Optionally: Farmers, ag retailers, agronomists etc
 
-Deep Dive Slides:
 
-Deep Dive Slides: https://github.com/START-Hack/Syngenta_STARTHACK24/blob/main/Syngenta-Hack.pdf
+**Deep Dive Slides**: https://github.com/START-Hack/Syngenta_STARTHACK24/blob/main/Syngenta-Hack.pdf
 
 
 ## <p align="center"> Expected Outcome: </p>
 
 
 
-## <p align="center"> The Pitch: </p>
-[Link to the video pitch]
-
-## <p align="center"> Deep Dive Slides: </p>
-
 ## <p align="center"> Further Information: </p>
 
-Syngenta will provide access to data from real commercial farms, access to satellite imagery, weather and environmental datasets, and pest and disease models. A description of each dataset/API and how to use it will be provided in the Github folder.  
+Syngenta will provide access to environmental data, products, and agronomics algorithms.
 
-Hackers will have to API access to three Syngenta platforms: 
 - CE Hub: a data lake for crop and environmental datasets 
 - Product card: access to a variety of products
-- Algortihms:  
+- Algortihms:  Agronomy algorithm logic of stresses  
 
 Hackers are invited to use programming software such as Python and any other tools at their disposal to tackle the case  
-
-Participants are welcome to use any other publicly available datasets    
 
 
 ##  <p align="center"> Resources: </p>
@@ -60,21 +51,59 @@ Below is an overview of the tools that you may use during the hack:
 
 
 
-
-
 ## <p align="center"> Judging Criteria: </p>
 Judgment criteria are important for the participants to understand the focus of the case. You could either focus more on the technical aspect (coding and programming), on the business aspect (product fitting in the market), or it can be both. Please also add the weighted criteria. Scoring 1 to 5 (5 best) for each category.  
 
-Creativity (25%) 
+- Creativity (25%) 
 
-Functional / accuracy / applicability (25%) 
+- Functional / accuracy/applicability (25%) 
 
-Visual design / accessibility / ease of use (25%) 
+- Visual design/accessibility / ease of use (25%) 
 
-Presentation quality (25%) 
+- Presentation quality (25%)
+
+## <p align="center"> Presentation Prototpye: </p>
+
+**Format: ** 
+
+- A working prototype (e.g. an app, website, etc.) and a concise PowerPoint presentation  
+
+**Key elements: **
+
+- Clear problem articulation: Clearly defined the identified problem. 
+
+- Solution representation: Showcase the proposed solution prototype  
+
+- Functional highlights. Highlight the key functionalities of the application – Awareness, recommendation and feedback loop. Any other functionalities or visualization is a bonus.  
+
+- Decision-making process: Explain how the solution effectively tackles the identified problem. 
+
+- Visual Components: Include visual elements that enhance understanding (graphics, charts. …)  
+
+**Requirements: **
+
+- Clarity in the communicating the problem solution fit – how does this solution solve the problem  
+
+- Usability of the solution based on the user base  
+
+- Usage of latest technologies to simulate the algorithm and visualize the impact  
 
 
 ## <p align="center"> Point of Contact: </p>
 
+The following individuals will be onsite to provide support in tackling the hack case:  
+
+- Kiran Joseph (Head IT & Digital Biologicals) 
+
+- Conor Marsh (Digital Innovation and Strategic Partnerships Lead) 
+
+- Pradeep Kethireddy (Platform Manager)  
+
+- Marco Issenmann (Head Digital Marketing and Branding) 
+
+- Paolo Di Lernia (Head of Seedcare and Biologicals Communications) 
+
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
+
+An expenses-paid trip to Italy’s Adriatic coast and home of Syngenta’s Biological business in the beautiful region of Abruzzo. The winning team will have an opportunity to tour our facilities and present their solution to Syngenta leadership, experience a visit to a local farm to sample the delicious local produce and wine, and enjoy some free time to relax at the beach before returning home.    
