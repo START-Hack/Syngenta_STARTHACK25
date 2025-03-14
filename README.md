@@ -12,10 +12,10 @@ Biologicals are naturally derived products that can support crop health and sust
 
 **What is the expected final product?**
 
-An AI-enabled solution designed to support farmers in: 
-(i) visualizing the climate, soil and disease risks facing them and implications for their crop; 
-(ii) recommending the best fit biological products for their crop, soil types and field conditions and when to apply them; 
-(iii) track outcomes during the season and use the data to improve recommendations for the subsequent year.
+An AI-enabled solution designed to support farmers in: <Br/>
+- Visualizingg the climate, soil and disease risks facing them andthe  implications for their crop; 
+- Recommending the best fit biological products for their crop, soil types and field conditions and when to apply them; 
+- Track outcomes during the season and use the data to improve recommendations for the subsequent year.
 
 The solution can take various forms: an app, website
 
