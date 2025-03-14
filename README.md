@@ -6,11 +6,11 @@
 
 ## <p align="center"> Case Introduction: </p>
 
-What is the current problem?
+**What is the current problem?**
 
 Biologicals are naturally derived products that can support crop health and sustainability outcomes. In the face of new threats to crops from changing climates, biological products can help to protect yields, improve soil health and enable farmers to continue to feed a growing population. However, a lack of understanding and data access on biological efficacy across various climates, soil types and conditions mean that many farmers are unable to make the best product selection for their field or crop, leading to suboptimal yields and worse outcomes in the face of environmental challenges.
 
-What is the expected final product?
+**What is the expected final product?**
 
 An AI-enabled solution designed to support farmers in: 
 (i) visualizing the climate, soil and disease risks facing them and implications for their crop; 
@@ -19,7 +19,7 @@ An AI-enabled solution designed to support farmers in:
 
 The solution can take various forms: an app, website
 
-Who are the users of this solution?
+**Who are the users of this solution?**
 
 Primary users will be farmers in India and Brazil. The teams are free to choose one of the locations of the farmer.  
 
