@@ -34,7 +34,7 @@ Syngenta will provide access to environmental data, products, and agronomics alg
 
 - CE Hub: a data lake for crop and environmental datasets  
 - Product card: Understand the products and gain insights into what is grown
-- Agronomy stress algorithms logic – Apply the science-driven logic to tackle crop challenges with the power of AI![image](https://github.com/user-attachments/assets/81365bc3-cdd0-4076-acb0-a7e634847476)
+- Agronomy stress algorithms logic – Apply the science-driven logic to tackle crop challenges with the power of AI!
 
 Hackers are invited to use programming software such as Python and any other tools at their disposal to tackle the case  
 
