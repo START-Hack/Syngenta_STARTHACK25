@@ -89,7 +89,7 @@ Judgment criteria are important for the participants to understand the focus of 
 
 The following individuals will be onsite to provide support in tackling the hack case:  
 
--Marco Issenmann (Head Digital Marketing and Branding) 
+- Marco Issenmann (Head Digital Marketing and Branding) 
 
 - Kiran Joseph (Head IT & Digital Biologicals) 
 
