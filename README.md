@@ -89,15 +89,15 @@ Judgment criteria are important for the participants to understand the focus of 
 
 The following individuals will be onsite to provide support in tackling the hack case:  
 
+-Marco Issenmann (Head Digital Marketing and Branding) 
+
 - Kiran Joseph (Head IT & Digital Biologicals) 
 
 - Conor Marsh (Digital Innovation and Strategic Partnerships Lead) 
 
+- Paolo Di Lernia (Head of Seedcare and Biologicals Communications)
+
 - Pradeep Kethireddy (Platform Manager)  
-
-- Marco Issenmann (Head Digital Marketing and Branding) 
-
-- Paolo Di Lernia (Head of Seedcare and Biologicals Communications) 
 
 
 ## <p align="center"> Prize - the winning team members will each receive: </p>
