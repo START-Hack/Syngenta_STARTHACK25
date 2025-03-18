@@ -32,18 +32,18 @@ Optionally: Farmers, ag retailers, agronomists etc
 
 Syngenta will provide access to environmental data, products, and agronomics algorithms.
 
-- CE Hub: a data lake for crop and environmental datasets 
-- Product card: access to a variety of products
-- Algortihms:  Agronomy algorithm logic of stresses  
+- CE Hub: a data lake for crop and environmental datasets  
+- Product card: Understand the products and gain insights into what is grown
+- Agronomy stress algorithms logic – Apply the science-driven logic to tackle crop challenges with the power of AI![image](https://github.com/user-attachments/assets/81365bc3-cdd0-4076-acb0-a7e634847476)
 
 Hackers are invited to use programming software such as Python and any other tools at their disposal to tackle the case  
-
 
 ##  <p align="center"> Resources: </p>
 Below is an overview of the tools that you may use during the hack:
 
-- **CE-Hub**: Provides a central access point for environmental data associated with time and geographical coordinates. Through well-defined APIs, it is possible to obtain historical weather data, vegetation health information, soil characteristics, land use, and topography.​ [Documentation](https://github.com/syngenta/syngenta-start-global-hackathon-2024/blob/main/docs/api/ce%20hub/CEHub%20API%20Service%20Specification.docx), [API Postman Collection](https://github.com/syngenta/syngenta-start-global-hackathon-2024/blob/main/docs/api/ce%20hub/CE%20Hub%20API's.postman_collection.json), [Swagger API Documentation](https://services.cehub.syngenta-ais.com/swagger/index.html) and [Video Tutorial](https://github.com/syngenta/syngenta-start-global-hackathon-2024/blob/main/docs/api/ce%20hub/GMT20240319-133726_Recording_1920x1080.mp4)
-
+- **CE-Hub**: Provides a central access point for environmental data associated with time and geographical coordinates. Through well-defined APIs, it is possible to obtain historical weather data, vegetation health information, soil characteristics, land use, and topography.​ [Documentation](https://github.com/syngenta-digital/syngenta-start-global-hackathon-2025/blob/main/API/CEHub%20API%20Service%20Specification.docx), [API Postman Collection](https://github.com/syngenta-digital/syngenta-start-global-hackathon-2025/blob/main/API/CE%20Hub%20API's.postman_collection.json), [Swagger API Documentation](https://services.cehub.syngenta-ais.com/swagger/index.html) and [Video Tutorial](https://github.com/syngenta-digital/syngenta-start-global-hackathon-2025/blob/main/API/GMT20240319-133726_Recording_1920x1080.mp4)
+- **Agronomy stress algorithms**: Apply the science-driven logic to tackle crop challenges with the power of AI! [Documentation](https://github.com/syngenta-digital/syngenta-start-global-hackathon-2025/blob/main/Model%20card/weather-based%20algorithms.pdf)
+- **product data cards**: Comprehensive guides providing essential information about biological agricultural products. These cards offer detailed insights into each product's composition, usage, and efficacy, helping users understand and optimize their application in various agricultural scenarios. [Documentation](https://github.com/syngenta-digital/syngenta-start-global-hackathon-2025/tree/main/Product%20card)
 
 
 ## <p align="center"> Judging Criteria: </p>
@@ -61,11 +61,11 @@ Judgment criteria are important for the participants to understand the focus of 
 
 **Format:**
 
-- A working prototype (e.g. an app, website, etc.) and a concise PowerPoint presentation  
+- A working prototype (e.g., an app, website, etc.) and a concise PowerPoint presentation  
 
 **Key elements:**
 
-- Clear problem articulation: Clearly defined the identified problem. 
+- Clear problem articulation: Clearly define the identified problem. 
 
 - Solution representation: Showcase the proposed solution prototype  
 
@@ -77,7 +77,7 @@ Judgment criteria are important for the participants to understand the focus of 
 
 **Requirements:**
 
-- Clarity in communicating the problem solution fit – how does this solution solve the problem  
+- Clarity in communicating the problem-solution fit – how does this solution solve the problem  
 
 - Usability of the solution based on the user base  
 
