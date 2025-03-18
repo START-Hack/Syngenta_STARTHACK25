@@ -26,7 +26,7 @@ Primary users will be farmers in India and Brazil. The teams are free to choose 
 Optionally: Farmers, ag retailers, agronomists etc
 
 
-**Deep Dive Slides**: https://github.com/START-Hack/Syngenta_STARTHACK25/blob/main/START%20Hack%202025_Deep%20Dive%20Presentation.pdf
+**Deep Dive Slides**: Presentation(https://github.com/START-Hack/Syngenta_STARTHACK25/blob/main/START%20Hack%202025_Deep%20Dive%20Presentation.pdf)
 
 ## <p align="center"> Further Information: </p>
 
