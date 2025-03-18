@@ -8,12 +8,12 @@
 
 **What is the current problem?**
 
-Biologicals are naturally derived products that can support crop health and sustainability outcomes. In the face of new threats to crops from changing climates, biological products can help to protect yields, improve soil health and enable farmers to continue to feed a growing population. However, a lack of understanding and data access on biological efficacy across various climates, soil types and conditions mean that many farmers are unable to make the best product selection for their field or crop, leading to suboptimal yields and worse outcomes in the face of environmental challenges.
+Biologicals are naturally derived products that can support crop health and sustainability outcomes. In the face of new threats to crops from changing climates, biological products can help to protect yields, improve soil health and enable farmers to continue to feed a growing population. However, a lack of understanding and data access on biological efficacy across various climates, soil types and conditions mean that many farmers cannot make the best product selection for their field or crop, leading to suboptimal yields and worse outcomes in the face of environmental challenges.
 
 **What is the expected final product?**
 
 An AI-enabled solution designed to support farmers in: <Br/>
-- Visualizingg the climate, soil and disease risks facing them andthe  implications for their crop; 
+- Visualizing the climate, soil and disease risks facing them and the  implications for their crop; 
 - Recommending the best fit biological products for their crop, soil types and field conditions and when to apply them; 
 - Track outcomes during the season and use the data to improve recommendations for the subsequent year.
 
